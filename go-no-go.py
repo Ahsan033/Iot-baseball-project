@@ -13,7 +13,7 @@ age = 12
 
 base_url = "https://api.openweathermap.org/data/2.5/weather"
 
-api_key = "69b4d64e603b85d39c063999303831af"
+api_key = "69b4d64e603b85d39caf"
 
 params = {
 
